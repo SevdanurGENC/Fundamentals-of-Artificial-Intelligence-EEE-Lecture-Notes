@@ -1,6 +1,6 @@
-# Artificial-Intelligence-EEE-Lecture-Notes
+# Fundamentals-of-Artificial-Intelligence-EEE-Lecture-Notes
 
-**BAUN Department of Electrical and Electronic Engineering: Artificial Intelligence Lecture Notes**
+**BAUN Department of Electrical and Electronic Engineering: Fundamentals of Artificial Intelligence Lecture Notes**
 
 Bu depo, Balıkesir Üniversitesi (BAUN) Elektrik-Elektronik Mühendisliği Bölümü 4. sınıf seçmeli Yapay Zeka dersine ait haftalık ders notlarını, uygulamalı kod örneklerini ve kaynak materyalleri içermektedir.
 
