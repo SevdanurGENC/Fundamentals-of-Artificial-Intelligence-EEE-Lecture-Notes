@@ -6,27 +6,27 @@ Bu depo, Balıkesir Üniversitesi (BAUN) Elektrik-Elektronik Mühendisliği Böl
 
 ---
 
-## Haftalık Ders İçeriği
+# Haftalık Ders İçeriği
 
 Dersin dönem içindeki ilerleyişi ve işlenecek konular aşağıda listelenmiştir:
 
 | Hafta | Konu Başlığı | Materyaller |
-| :---: | :--- | :---: |
-| **1** | Yapay Zekaya Giriş | [Eklenecek]() |
-| **2** | Makine Öğrenmesi | [Eklenecek]() |
-| **3** | Regresyon | [Eklenecek]() |
-| **4** | Sınıflandırma | [Eklenecek]() |
-| **5** | Kümeleme | [Eklenecek]() |
-| **6** | Bulanık Mantık | [Eklenecek]() |
-| **7** | Yapay Sinir Ağları | [Eklenecek]() |
-| **8** | **Ara Değerlendirme ve Proje Fikri Sunumu** | - |
-| **9** | Derin Öğrenme | [Eklenecek]() |
-| **10**| Görüntüde Yapay Zeka: Evrişimli Sinir Ağları (CNN) | [Eklenecek]() |
-| **11**| Zaman Serileri ve RNN/LSTM | [Eklenecek]() |
-| **12**| Genetik Algoritmalar | [Eklenecek]() |
-| **13**| Pekiştirmeli Öğrenme | [Eklenecek]() |
-| **14**| Yapay Zeka Gerçek Dünyada: Küçük Cihazlarda Zeka ve Etik Sorular | [Eklenecek]() |
-| **15**| **Final Proje Sunumları** | - |
+|---|---|---|
+| 1 | Yapay Zekâya Giriş | Eklenecek |
+| 2 | Python ile Isınma | Eklenecek |
+| 3 | Veri ile Tanışma | Eklenecek |
+| 4 | Makine Öğrenmesinin Temel Kavramları | Eklenecek |
+| 5 | Doğrusal Regresyon | Eklenecek |
+| 6 | Sınıflandırma I | Eklenecek |
+| 7 | Sınıflandırma II ve Özellik Mühendisliği | Eklenecek |
+| 8 | Ara Sınav + Denetimsiz Öğrenme | - |
+| 9 | Yapay Sinir Ağlarına Giriş | Eklenecek |
+| 10 | Geri Yayılım ve PyTorch'a Giriş | Eklenecek |
+| 11 | Derin Öğrenme Pratiği | Eklenecek |
+| 12 | Evrişimli Sinir Ağları (CNN) | Eklenecek |
+| 13 | Zaman Serileri ve Ardışık Veriler | Eklenecek |
+| 14 | EEM'de YZ Uygulamaları, Etik ve Güncel Konular | Eklenecek |
+| 15 | Proje Sunumları ve Genel Tekrar | - |
 
 ---
 
