@@ -10,23 +10,23 @@ Bu depo, Balıkesir Üniversitesi (BAUN) Elektrik-Elektronik Mühendisliği Böl
 
 Dersin dönem içindeki ilerleyişi ve işlenecek konular aşağıda listelenmiştir:
 
-| Hafta | Konu Başlığı | Materyaller |
-|---|---|---|
-| 1 | Yapay Zekâya Giriş | [Hafta01_Yapay_Zekaya_Giris.pptx](Slides/Hafta01_Yapay_Zekaya_Giris.pptx) |
-| 2 | Python ile Isınma | [Hafta02_Python_ile_Isinma.pptx](Slides/Hafta02_Python_ile_Isinma.pptx) |
-| 3 | Veri ile Tanışma | [Hafta03_Veri_ile_Tanisma.pptx](Slides/Hafta03_Veri_ile_Tanisma.pptx) |
-| 4 | Makine Öğrenmesinin Temel Kavramları | [Hafta04_MO_Temel_Kavramlar.pptx](Slides/Hafta04_MO_Temel_Kavramlar.pptx) |
-| 5 | Doğrusal Regresyon | [Hafta05_Dogrusal_Regresyon.pptx](Slides/Hafta05_Dogrusal_Regresyon.pptx) |
-| 6 | Sınıflandırma I | [Hafta06_Siniflandirma_I.pptx](Slides/Hafta06_Siniflandirma_I.pptx) |
-| 7 | Sınıflandırma II ve Özellik Mühendisliği | Eklenecek |
-| 8 | Ara Sınav + Denetimsiz Öğrenme | [Hafta08_Denetimsiz_Ogrenme.pptx](Slides/Hafta08_Denetimsiz_Ogrenme.pptx) |
-| 9 | Yapay Sinir Ağlarına Giriş | [Hafta09_Yapay_Sinir_Aglari.pptx](Slides/Hafta09_Yapay_Sinir_Aglari.pptx) |
-| 10 | Geri Yayılım ve PyTorch'a Giriş | [Hafta10_Geri_Yayilim_PyTorch.pptx](Slides/Hafta10_Geri_Yayilim_PyTorch.pptx) |
-| 11 | Derin Öğrenme Pratiği | [Hafta11_Derin_Ogrenme_Pratigi.pptx](Slides/Hafta11_Derin_Ogrenme_Pratigi.pptx) |
-| 12 | Evrişimli Sinir Ağları (CNN) | [Hafta12_CNN.pptx](Slides/Hafta12_CNN.pptx) |
-| 13 | Zaman Serileri ve Ardışık Veriler | [Hafta13_Zaman_Serileri_LSTM.pptx](Slides/Hafta13_Zaman_Serileri_LSTM.pptx) |
-| 14 | EEM'de YZ Uygulamaları, Etik ve Güncel Konular | [Hafta14_Uygulamalar_TinyML_LLM_Etik.pptx](Slides/Hafta14_Uygulamalar_TinyML_LLM_Etik.pptx) |
-| 15 | Proje Sunumları ve Genel Tekrar | [Hafta15_Donem_Ozeti_Final.pptx](Slides/Hafta15_Donem_Ozeti_Final.pptx) |
+| Hafta | Konu Başlığı | Slaytlar | Kod |
+|---|---|---|---|
+| 1 | Yapay Zekâya Giriş | [Hafta01_Yapay_Zekaya_Giris.pptx](Slides/Hafta01_Yapay_Zekaya_Giris.pptx) | [Hafta01_Giris_Colab.ipynb](Codes/Hafta01_Giris_Colab.ipynb) |
+| 2 | Python ile Isınma | [Hafta02_Python_ile_Isinma.pptx](Slides/Hafta02_Python_ile_Isinma.pptx) | [Hafta02_Python_Isinma.ipynb](Codes/Hafta02_Python_Isinma.ipynb) |
+| 3 | Veri ile Tanışma | [Hafta03_Veri_ile_Tanisma.pptx](Slides/Hafta03_Veri_ile_Tanisma.pptx) | [Hafta03_Veri_EDA.ipynb](Codes/Hafta03_Veri_EDA.ipynb) |
+| 4 | Makine Öğrenmesinin Temel Kavramları | [Hafta04_MO_Temel_Kavramlar.pptx](Slides/Hafta04_MO_Temel_Kavramlar.pptx) | [Hafta04_MO_Temel_Kavramlar.ipynb](Codes/Hafta04_MO_Temel_Kavramlar.ipynb) |
+| 5 | Doğrusal Regresyon | [Hafta05_Dogrusal_Regresyon.pptx](Slides/Hafta05_Dogrusal_Regresyon.pptx) | [Hafta05_Dogrusal_Regresyon.ipynb](Codes/Hafta05_Dogrusal_Regresyon.ipynb) |
+| 6 | Sınıflandırma I | [Hafta06_Siniflandirma_I.pptx](Slides/Hafta06_Siniflandirma_I.pptx) | [Hafta06_Siniflandirma_I.ipynb](Codes/Hafta06_Siniflandirma_I.ipynb) |
+| 7 | Sınıflandırma II ve Özellik Mühendisliği | Eklenecek | [Hafta07_Siniflandirma_II_Ozellik.ipynb](Codes/Hafta07_Siniflandirma_II_Ozellik.ipynb) |
+| 8 | Ara Sınav + Denetimsiz Öğrenme | [Hafta08_Denetimsiz_Ogrenme.pptx](Slides/Hafta08_Denetimsiz_Ogrenme.pptx) | [Hafta08_Denetimsiz_Ogrenme.ipynb](Codes/Hafta08_Denetimsiz_Ogrenme.ipynb) |
+| 9 | Yapay Sinir Ağlarına Giriş | [Hafta09_Yapay_Sinir_Aglari.pptx](Slides/Hafta09_Yapay_Sinir_Aglari.pptx) | [Hafta09_Yapay_Sinir_Aglari.ipynb](Codes/Hafta09_Yapay_Sinir_Aglari.ipynb) |
+| 10 | Geri Yayılım ve PyTorch'a Giriş | [Hafta10_Geri_Yayilim_PyTorch.pptx](Slides/Hafta10_Geri_Yayilim_PyTorch.pptx) | [Hafta10_Geri_Yayilim_PyTorch.ipynb](Codes/Hafta10_Geri_Yayilim_PyTorch.ipynb) |
+| 11 | Derin Öğrenme Pratiği | [Hafta11_Derin_Ogrenme_Pratigi.pptx](Slides/Hafta11_Derin_Ogrenme_Pratigi.pptx) | [Hafta11_Derin_Ogrenme_Pratigi.ipynb](Codes/Hafta11_Derin_Ogrenme_Pratigi.ipynb) |
+| 12 | Evrişimli Sinir Ağları (CNN) | [Hafta12_CNN.pptx](Slides/Hafta12_CNN.pptx) | [Hafta12_CNN.ipynb](Codes/Hafta12_CNN.ipynb) |
+| 13 | Zaman Serileri ve Ardışık Veriler | [Hafta13_Zaman_Serileri_LSTM.pptx](Slides/Hafta13_Zaman_Serileri_LSTM.pptx) | [Hafta13_Zaman_Serileri_LSTM.ipynb](Codes/Hafta13_Zaman_Serileri_LSTM.ipynb) |
+| 14 | EEM'de YZ Uygulamaları, Etik ve Güncel Konular | [Hafta14_Uygulamalar_TinyML_LLM_Etik.pptx](Slides/Hafta14_Uygulamalar_TinyML_LLM_Etik.pptx) | [Hafta14_Uygulamalar_TinyML_LLM_Etik.ipynb](Codes/Hafta14_Uygulamalar_TinyML_LLM_Etik.ipynb) |
+| 15 | Proje Sunumları ve Genel Tekrar | [Hafta15_Donem_Ozeti_Final.pptx](Slides/Hafta15_Donem_Ozeti_Final.pptx) | [Hafta15_Donem_Ozeti_Final.ipynb](Codes/Hafta15_Donem_Ozeti_Final.ipynb) |
 
 ---
 
