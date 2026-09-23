@@ -12,21 +12,21 @@ Dersin dönem içindeki ilerleyişi ve işlenecek konular aşağıda listelenmi�
 
 | Hafta | Konu Başlığı | Materyaller |
 |---|---|---|
-| 1 | Yapay Zekâya Giriş | Eklenecek |
-| 2 | Python ile Isınma | Eklenecek |
-| 3 | Veri ile Tanışma | Eklenecek |
-| 4 | Makine Öğrenmesinin Temel Kavramları | Eklenecek |
-| 5 | Doğrusal Regresyon | Eklenecek |
-| 6 | Sınıflandırma I | Eklenecek |
+| 1 | Yapay Zekâya Giriş | [Hafta01_Yapay_Zekaya_Giris.pptx](Slides/Hafta01_Yapay_Zekaya_Giris.pptx) |
+| 2 | Python ile Isınma | [Hafta02_Python_ile_Isinma.pptx](Slides/Hafta02_Python_ile_Isinma.pptx) |
+| 3 | Veri ile Tanışma | [Hafta03_Veri_ile_Tanisma.pptx](Slides/Hafta03_Veri_ile_Tanisma.pptx) |
+| 4 | Makine Öğrenmesinin Temel Kavramları | [Hafta04_MO_Temel_Kavramlar.pptx](Slides/Hafta04_MO_Temel_Kavramlar.pptx) |
+| 5 | Doğrusal Regresyon | [Hafta05_Dogrusal_Regresyon.pptx](Slides/Hafta05_Dogrusal_Regresyon.pptx) |
+| 6 | Sınıflandırma I | [Hafta06_Siniflandirma_I.pptx](Slides/Hafta06_Siniflandirma_I.pptx) |
 | 7 | Sınıflandırma II ve Özellik Mühendisliği | Eklenecek |
-| 8 | Ara Sınav + Denetimsiz Öğrenme | - |
-| 9 | Yapay Sinir Ağlarına Giriş | Eklenecek |
-| 10 | Geri Yayılım ve PyTorch'a Giriş | Eklenecek |
-| 11 | Derin Öğrenme Pratiği | Eklenecek |
-| 12 | Evrişimli Sinir Ağları (CNN) | Eklenecek |
-| 13 | Zaman Serileri ve Ardışık Veriler | Eklenecek |
-| 14 | EEM'de YZ Uygulamaları, Etik ve Güncel Konular | Eklenecek |
-| 15 | Proje Sunumları ve Genel Tekrar | - |
+| 8 | Ara Sınav + Denetimsiz Öğrenme | [Hafta08_Denetimsiz_Ogrenme.pptx](Slides/Hafta08_Denetimsiz_Ogrenme.pptx) |
+| 9 | Yapay Sinir Ağlarına Giriş | [Hafta09_Yapay_Sinir_Aglari.pptx](Slides/Hafta09_Yapay_Sinir_Aglari.pptx) |
+| 10 | Geri Yayılım ve PyTorch'a Giriş | [Hafta10_Geri_Yayilim_PyTorch.pptx](Slides/Hafta10_Geri_Yayilim_PyTorch.pptx) |
+| 11 | Derin Öğrenme Pratiği | [Hafta11_Derin_Ogrenme_Pratigi.pptx](Slides/Hafta11_Derin_Ogrenme_Pratigi.pptx) |
+| 12 | Evrişimli Sinir Ağları (CNN) | [Hafta12_CNN.pptx](Slides/Hafta12_CNN.pptx) |
+| 13 | Zaman Serileri ve Ardışık Veriler | [Hafta13_Zaman_Serileri_LSTM.pptx](Slides/Hafta13_Zaman_Serileri_LSTM.pptx) |
+| 14 | EEM'de YZ Uygulamaları, Etik ve Güncel Konular | [Hafta14_Uygulamalar_TinyML_LLM_Etik.pptx](Slides/Hafta14_Uygulamalar_TinyML_LLM_Etik.pptx) |
+| 15 | Proje Sunumları ve Genel Tekrar | [Hafta15_Donem_Ozeti_Final.pptx](Slides/Hafta15_Donem_Ozeti_Final.pptx) |
 
 ---
 
