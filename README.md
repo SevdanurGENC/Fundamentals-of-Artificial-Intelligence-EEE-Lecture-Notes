@@ -2,7 +2,7 @@
 
 **BAUN Department of Electrical and Electronic Engineering: Fundamentals of Artificial Intelligence Lecture Notes**
 
-Bu depo, Balıkesir Üniversitesi (BAUN) Elektrik-Elektronik Mühendisliği Bölümü 3. sınıf seçmeli Yapay Zeka dersine ait haftalık ders notlarını, uygulamalı kod örneklerini ve kaynak materyalleri içermektedir.
+Bu depo, Balıkesir Üniversitesi (BAUN) Elektrik-Elektronik Mühendisliği Bölümü 3. sınıf seçmeli Yapay Zeka Temelleri dersine ait haftalık ders notlarını, uygulamalı kod örneklerini ve kaynak materyalleri içermektedir.
 
 ---
 
