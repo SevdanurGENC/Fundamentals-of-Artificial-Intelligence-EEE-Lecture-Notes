@@ -18,7 +18,7 @@ Dersin dönem içindeki ilerleyişi ve işlenecek konular aşağıda listelenmi�
 | 4 | Makine Öğrenmesinin Temel Kavramları | [Hafta04_MO_Temel_Kavramlar.pptx](Slides/Hafta04_MO_Temel_Kavramlar.pptx) | [Hafta04_MO_Temel_Kavramlar.ipynb](Codes/Hafta04_MO_Temel_Kavramlar.ipynb) |
 | 5 | Doğrusal Regresyon | [Hafta05_Dogrusal_Regresyon.pptx](Slides/Hafta05_Dogrusal_Regresyon.pptx) | [Hafta05_Dogrusal_Regresyon.ipynb](Codes/Hafta05_Dogrusal_Regresyon.ipynb) |
 | 6 | Sınıflandırma I | [Hafta06_Siniflandirma_I.pptx](Slides/Hafta06_Siniflandirma_I.pptx) | [Hafta06_Siniflandirma_I.ipynb](Codes/Hafta06_Siniflandirma_I.ipynb) |
-| 7 | Sınıflandırma II ve Özellik Mühendisliği | Eklenecek | [Hafta07_Siniflandirma_II_Ozellik.ipynb](Codes/Hafta07_Siniflandirma_II_Ozellik.ipynb) |
+| 7 | Sınıflandırma II ve Özellik Mühendisliği | [Hafta07_Siniflandirma_II_Ozellik.pptx](Slides/Hafta07_Siniflandirma_II_Ozellik.pptx) | [Hafta07_Siniflandirma_II_Ozellik.ipynb](Codes/Hafta07_Siniflandirma_II_Ozellik.ipynb) |
 | 8 | Ara Sınav + Denetimsiz Öğrenme | [Hafta08_Denetimsiz_Ogrenme.pptx](Slides/Hafta08_Denetimsiz_Ogrenme.pptx) | [Hafta08_Denetimsiz_Ogrenme.ipynb](Codes/Hafta08_Denetimsiz_Ogrenme.ipynb) |
 | 9 | Yapay Sinir Ağlarına Giriş | [Hafta09_Yapay_Sinir_Aglari.pptx](Slides/Hafta09_Yapay_Sinir_Aglari.pptx) | [Hafta09_Yapay_Sinir_Aglari.ipynb](Codes/Hafta09_Yapay_Sinir_Aglari.ipynb) |
 | 10 | Geri Yayılım ve PyTorch'a Giriş | [Hafta10_Geri_Yayilim_PyTorch.pptx](Slides/Hafta10_Geri_Yayilim_PyTorch.pptx) | [Hafta10_Geri_Yayilim_PyTorch.ipynb](Codes/Hafta10_Geri_Yayilim_PyTorch.ipynb) |
